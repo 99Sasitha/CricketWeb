@@ -8,7 +8,7 @@
   background-color:#E6EBF0;
   text-align:center;
   border-color: #F8F8FC;">
-  <h2 style="color:#00005C;">Please Fill Up The Form To Inform Us Your Query</h2>
+  <h2 style="color:#00005C;">Please Fill Up The Form To Inform Us Your Feedback</h2>
 </div>
 </br>
 <div class="container">
@@ -42,8 +42,8 @@
         </select>
     </div>
     <div class="form-group">
-      <label for="comment">Query:</label>
-      <input type="text" class="form-control" id="query" placeholder="Enter Your Query">
+      <label for="comment">FeedBack:</label>
+      <input type="text" class="form-control" id="query" placeholder="Enter Your Feedback">
     </div>
     <div class="checkbox">
       <label><input type="checkbox"> Remember me</label>

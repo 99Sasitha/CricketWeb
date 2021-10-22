@@ -13,7 +13,7 @@
                             <h5><span class="glyphicon glyphicon-globe"></span>Terms Of Use</h5>
                         </div>
                         <div class="col-md-3">
-                            <h5><span class="glyphicon glyphicon-globe"></span><a style="color:#000047;" href="Contact_us.php">Contact-Us</a></h5>
+                            <h5><span class="glyphicon glyphicon-globe"></span><a style="color:#000047;" href="Contact_us.php">Feedback</a></h5>
                         </div>
                     </div>
                     <div class="col-md-1"> </div>

@@ -287,119 +287,30 @@
           </div>
         </div>
       </div>
+      
 
       <div class="entertainment">
         <div class="photo">
 
           <div style="border:5px;padding:5px;">
-              <h2 style="color:#F7F7FB;font-weight: bold;">Around The World</h2>
+              <h2 style="color:#020220;font-weight: bold;">Around The World</h2>
           </div>
           
             <div  style="text-align:center;width=650px; height=420px;"  class="photo1">
                     
 
                     <div style="padding-left: 20px;">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/JIUqDYgXtbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/By0a9K5yTcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" style="margin-top:20px ;" height="315" src="https://www.youtube.com/embed/JIUqDYgXtbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    
                     </div>
             </div>
-
-            <div  style="text-align:center"  class="photo1">
-                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
-                          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel" data-slide-to="1"></li>
-                          <li data-target="#myCarousel" data-slide-to="2"></li>
-                          <li data-target="#myCarousel" data-slide-to="3"></li>
-                        </ol>
-
-                        <div class="carousel-inner" role="listbox">
-
-                          <div class="item active">
-                            <img class="img-responsive center-block" src="https://insidecricketsport.com/store/wp-content/uploads/2020/09/Ea-Sports-Cricket-2020.jpg" alt="Baghdad Premium" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-
-                          <div class="item">
-                            <img class="img-responsive center-block" src="https://adaderanaenglish.s3.amazonaws.com/1577859423-Sri-Lanka-international-cricket-schedule-for-2020-L.jpg" alt="TR Travel" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-                        
-                          <div class="item">
-                            <img class="img-responsive center-block" src="https://images.news18.com/ibnlive/uploads/2020/12/1606903333_indian-cricket-team.jpg" alt="Shohag Premium" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-
-                          <div class="item">
-                            <img class="img-responsive center-block" src="https://www.sportingexcitement.com/wp-content/uploads/2020/03/NINTCHDBPICT000489329428-e1583248059772.jpg" alt="Soudia Scania" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-                      
-                        </div>
-
-                        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                          <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                          <span class="sr-only">Next</span>
-                        </a>
-                    </div>
+<!-- _____________________________________________________________________________________________________________________________ -->
+<h1></h1>
+          <div >
+          <image src="http://static.dnaindia.com/sites/default/files/styles/full/public/2017/10/13/616764-403302-icc-logo-dna-india.jpg" style="border-radius: 800px;width: 100%; height: 50%;padding-top: 30px;"/>
             </div>
-            <br>
             
-
-            <div  style="text-align:center"  class="photo1">
-                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
-                          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel" data-slide-to="1"></li>
-                          <li data-target="#myCarousel" data-slide-to="2"></li>
-                          <li data-target="#myCarousel" data-slide-to="3"></li>
-                        </ol>
-
-                        <div class="carousel-inner" role="listbox">
-
-                          <div class="item active">
-                            <img class="img-responsive center-block" src="https://cdn5.newsnationtv.com/images/2020/03/11/world-cup-women-icc-61.jpg" alt="Baghdad Premium" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-
-                          <div class="item">
-                            <img class="img-responsive center-block" src="https://img.cricketnmore.com/uploads/2021/02/trailer-of-documentary-on-2020-womens-t20-wc-launched-lg.jpg" alt="TR Travel" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-                        
-                          <div class="item">
-                            <img class="img-responsive center-block" src="https://im.rediff.com/cricket/2021/mar/30rohit-dhawan.JPG" alt="Shohag Premium" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-
-                          <div class="item">
-                            <img class="img-responsive center-block" src="https://cricshots.com/wp-content/uploads/2018/06/Scotland-1.jpg" alt="Soudia Scania" style="width:635px;height:390px">
-                            <div class="carousel-caption">
-                            </div>
-                          </div>
-                      
-                        </div>
-
-                        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                          <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                          <span class="sr-only">Next</span>
-                        </a>
-                    </div>
-            </div>
             
         </div>
 
